@@ -1,0 +1,11 @@
+Test\BasketTest.class
+Page\HomePage.class
+com\testinium\methods\Methods.class
+Test\LoginTest.class
+Page\ProductPage.class
+com\testinium\driver\BaseTest.class
+Test\HomeTest.class
+Page\BasketPage.class
+Page\LoginPage.class
+Test\ProductTest.class
+Test\EndToEndTest.class
